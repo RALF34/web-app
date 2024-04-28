@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"df2c2ca8f6174456a4ce32543acf6d75","collectionName":"distribution_pollutants","type":"collection"}
